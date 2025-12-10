@@ -1,0 +1,17 @@
+# Virtual environment ignore
+venv/
+
+# Python cache ignore
+__pycache__/
+
+# Dataset videos ignore (optional)
+*.mp4
+*.avi
+*.mov
+
+# Model files ignore (optional)
+*.keras
+*.h5
+
+# Temp files
+*.log
