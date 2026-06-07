@@ -204,8 +204,8 @@ is painfully slow and entirely manual.
 That thought stuck with me: **why can't the camera itself tell you
 when something is wrong?**
 
-As a CS student, when I got the opportunity to build a final year
-project, I knew exactly what I wanted to solve. Instead of humans
+As a CS student, when I got the opportunity to build a project, 
+I knew exactly what I wanted to solve. Instead of humans
 watching screens for hours, what if an AI could flag suspicious
 activity the moment it happens — in real time?
 
@@ -233,7 +233,7 @@ This project is licensed under the [MIT License](https://github.com/Pratiksingh0
 
 ## 🙋 Author
 
-**Your Name**
+**PRATIK SINGH**
 - GitHub: [@Pratiksingh07-dy](https://github.com/Pratiksingh07-dy)
 - LinkedIn: [Pratiksingh2005](https://www.linkedin.com/in/pratiksingh2005/)
 
